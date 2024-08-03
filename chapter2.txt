@@ -1,1 +1,1 @@
-my second testfile in bash command prompt
+my second testfile in bash command prompt modified
